@@ -1,0 +1,6 @@
+C:\Users\student\Documents\мур\UserControlZaitsev\UserControlZaitsev\obj\Debug\UserControlZaitsev.csproj.AssemblyReference.cache
+C:\Users\student\Documents\мур\UserControlZaitsev\UserControlZaitsev\obj\Debug\UserControlZaitsev.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Documents\мур\UserControlZaitsev\UserControlZaitsev\obj\Debug\MainWindow.g.cs
+C:\Users\student\Documents\мур\UserControlZaitsev\UserControlZaitsev\obj\Debug\App.g.cs
+C:\Users\student\Documents\мур\UserControlZaitsev\UserControlZaitsev\obj\Debug\UserControlZaitsev_MarkupCompile.cache
+C:\Users\student\Documents\мур\UserControlZaitsev\UserControlZaitsev\obj\Debug\UserControlZaitsev_MarkupCompile.lref
